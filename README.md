@@ -6,5 +6,5 @@
 Дополнительно: 
 - ознакомиться с интерфейсом Idea IDE 
 - создать репозиторий на GitHub
-<br>
+---------------------------------
 [Занятие 2](https://github.com/traningEpamKz/lessons/tree/master/lesson_2) / 29.07.15 / 
