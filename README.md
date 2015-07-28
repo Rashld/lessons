@@ -11,5 +11,13 @@
 - создать репозиторий на GitHub (Pro Git: в веб форме [v1#2009](https://git-scm.com/book/ru/v1) / [v2#2014](https://git-scm.com/book/ru/v2) или [на гитхабе](https://github.com/progit/progit/tree/master/ru))
 
 
+Инструменты разработки:
+- JDK http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- IDEA https://www.jetbrains.com/idea/
+- Tomcat https://tomcat.apache.org/download-70.cgi
+- MsysGit https://msysgit.github.io/
+- PostgreSQL http://www.postgresql.org/download/
+
+
 [Занятие 2](https://github.com/traningEpamKz/lessons/tree/master/lesson_2) / 29.07.15 / 
 ----------------------------------------------
