@@ -7,7 +7,7 @@
  
 
 Дополнительно: 
-- ознакомиться с интерфейсом Idea IDE 
+- ознакомиться с интерфейсом Idea IDE ([отличные статьи по Idea IDE](http://info.javarush.ru/blog/idea_help/))
 - создать репозиторий на GitHub
 
 
