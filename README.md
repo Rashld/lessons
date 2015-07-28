@@ -8,7 +8,7 @@
 
 Дополнительно: 
 - ознакомиться с интерфейсом Idea IDE ([отличные статьи по Idea IDE](http://info.javarush.ru/blog/idea_help/))
-- создать репозиторий на GitHub
+- создать репозиторий на GitHub (Pro Git: [в веб форме](https://git-scm.com/book/ru/v1) или [на гитхабе](https://github.com/progit/progit/tree/master/ru))
 
 
 [Занятие 2](https://github.com/traningEpamKz/lessons/tree/master/lesson_2) / 29.07.15 / 
