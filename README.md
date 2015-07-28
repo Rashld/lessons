@@ -3,7 +3,7 @@
 [Занятие 1](https://github.com/traningEpamKz/lessons/tree/master/lesson_1) / 27.07.15 / Основы ООП, типы данных, вложенные классы 
 ----------------------------------------------
 Задание 1
-- [выбрать вариант](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/task1.docx) и реализовать структуру/иерархию к следующему занятию
+- [выбрать вариант](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/task1.docx) (как перейдтете по ссылке нажмите view raw, и файл с заданиями скачается) и реализовать структуру/иерархию к следующему занятию
  
 
 Дополнительно: 
