@@ -19,5 +19,9 @@
 - PostgreSQL http://www.postgresql.org/download/
 
 
+Литература:
+- Epam books http://book.epam.by/
+
+
 [Занятие 2](https://github.com/traningEpamKz/lessons/tree/master/lesson_2) / 29.07.15 / 
 ----------------------------------------------
