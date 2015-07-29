@@ -14,8 +14,9 @@
 Инструменты разработки:
 - JDK http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 - IDEA https://www.jetbrains.com/idea/
-- Tomcat https://tomcat.apache.org/download-70.cgi
 - MsysGit https://msysgit.github.io/
+- Tomcat https://tomcat.apache.org/download-70.cgi
+- Maven https://maven.apache.org/download.cgi?Preferred=ftp://mirror.reverse.net/pub/apache/
 - PostgreSQL http://www.postgresql.org/download/
 
 
