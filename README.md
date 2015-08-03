@@ -6,6 +6,8 @@
 - [Задание 3. Threads](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/tasks3.Threads.docx)
 - [Задание 4. XML](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/tasks4.XML.doc)
 - Задание 5.  Web-проект.
+ 
+
 =================================
 [Занятие 1](https://github.com/traningEpamKz/lessons/tree/master/lesson_1) / 27.07.15 / Основы ООП, типы данных, вложенные классы 
 ----------------------------------------------
