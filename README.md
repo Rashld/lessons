@@ -1,6 +1,7 @@
 ### Тренинг EPAM Java#16
 
 
+Задания курса:
 - [Задание 1. ООП](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/task1.docx)
 - [Задание 2. Strings](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/tasks2.Strings.doc)
 - [Задание 3. Threads](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/tasks3.Threads.docx)
