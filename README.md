@@ -2,10 +2,10 @@
 
 
 Задания курса:
-- [Задание 1. ООП](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/task1.docx)
-- [Задание 2. Strings](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/tasks2.Strings.doc)
-- [Задание 3. Threads](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/tasks3.Threads.docx)
-- [Задание 4. XML](https://github.com/traningEpamKz/lessons/blob/master/lesson_1/tasks4.XML.doc)
+- [Задание 1. ООП](https://github.com/traningEpamKz/lessons/blob/master/tasks/task_1_OOP.md)[download docx](https://github.com/traningEpamKz/lessons/blob/master/tasks/task1.docx)
+- [Задание 2. Strings](https://github.com/traningEpamKz/lessons/blob/master/tasks/task_2_Strings.md)[download docx](https://github.com/traningEpamKz/lessons/blob/master/tasks/tasks2.Strings.doc)
+- [Задание 3. Threads](https://github.com/traningEpamKz/lessons/blob/master/tasks/task_3_Threads.md)[download docx](https://github.com/traningEpamKz/lessons/blob/master/tasks/tasks3.Threads.docx)
+- [Задание 4. XML](https://github.com/traningEpamKz/lessons/blob/master/tasks/task_4_XML.md)[download docx](https://github.com/traningEpamKz/lessons/blob/master/tasks/tasks4.XML.doc)
 - Задание 5.  Web-проект.
  
 
