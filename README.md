@@ -61,7 +61,7 @@ TOP JAVA BOOKS EVER:
 ----------------------------------------------
 
 
-Занятие 7 / 10.08.15 / Java Serialization
+[Занятие 7](https://github.com/traningEpamKz/lessons/tree/master/lesson_7) / 10.08.15 / Java Serialization
 ----------------------------------------------
 
 
