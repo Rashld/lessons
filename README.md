@@ -67,11 +67,11 @@ TOP JAVA BOOKS EVER:
 ----------------------------------------------
 
 
-Занятие 8 / 12.08.15 / Collections
+[Занятие 8](https://github.com/trainingEpamKz/lessons/tree/master/lesson_8) / 12.08.15 / Collections
 ----------------------------------------------
 
 
-Занятие 9 / 14.08.15 / 
+[Занятие 9](https://github.com/trainingEpamKz/lessons/tree/master/lesson_9) / 14.08.15 / Exceptions
 ----------------------------------------------
 
 
