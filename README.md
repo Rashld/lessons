@@ -75,7 +75,7 @@ TOP JAVA BOOKS EVER:
 ----------------------------------------------
 
 
-Занятие 10 / 17.08.15 / 
+[Занятие 10](https://github.com/trainingEpamKz/lessons/tree/master/lesson_10) / 17.08.15 / Log, log4j. Tests, JUnit
 ----------------------------------------------
 
 
