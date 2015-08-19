@@ -9,7 +9,7 @@
 - [дополнительные задания по Exceptions](https://github.com/trainingEpamKz/lessons/blob/master/lesson_9/additional_Exceptions.md) / [download docx](https://github.com/trainingEpamKz/lessons/blob/master/lesson_9/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20.docx) 
 - [Задание 3. Threads](https://github.com/traningEpamKz/lessons/blob/master/tasks/task_3_Threads.md) / [download docx](https://github.com/traningEpamKz/lessons/blob/master/tasks/tasks3.Threads.docx)
 - [Задание 4. XML](https://github.com/traningEpamKz/lessons/blob/master/tasks/task_4_XML.md) / [download docx](https://github.com/traningEpamKz/lessons/blob/master/tasks/tasks4.XML.doc)
-- Задание 5.  Web-проект.
+- [Задание 5.  Web-проект.](https://github.com/trainingEpamKz/lessons/blob/master/tasks/task_5_WebProjects.md) / [download docx](https://github.com/trainingEpamKz/lessons/blob/master/tasks/tasks.WebProjects.doc)
  
 
 =================================
