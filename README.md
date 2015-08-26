@@ -85,3 +85,8 @@ TOP JAVA BOOKS EVER:
 
 [Занятие 12](https://github.com/trainingEpamKz/lessons/tree/master/lesson_12) / 21.08.15 / Threads.
 ----------------------------------------------
+
+
+[Занятие 13](https://github.com/trainingEpamKz/lessons/tree/master/lesson_13) / 24.08.15 / Лабораторный день
+----------------------------------------------
+
