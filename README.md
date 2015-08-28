@@ -93,3 +93,7 @@ TOP JAVA BOOKS EVER:
 
 [Занятие 14](https://github.com/trainingEpamKz/lessons/tree/master/lesson_14) / 26.08.15 / XML
 ----------------------------------------------
+
+
+[Занятие 15](https://github.com/trainingEpamKz/lessons/tree/master/lesson_15) / 28.08.15 / XML
+----------------------------------------------
