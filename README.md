@@ -1,6 +1,9 @@
 ### Тренинг EPAM Java#16
 
 
+[Примерные вопросы на приемке проекта](https://github.com/trainingEpamKz/lessons/blob/master/lesson_15/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.docx)
+
+
 Задания курса:
 - [Задание 1. ООП](https://github.com/traningEpamKz/lessons/blob/master/tasks/task_1_OOP.md) / [download docx](https://github.com/traningEpamKz/lessons/blob/master/tasks/task1.docx)
 - [Задание 2. Strings](https://github.com/traningEpamKz/lessons/blob/master/tasks/task_2_Strings.md) / [download docx](https://github.com/traningEpamKz/lessons/blob/master/tasks/tasks2.Strings.doc)
