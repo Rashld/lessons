@@ -104,3 +104,7 @@ TOP JAVA BOOKS EVER:
 
 [Занятие 16](https://github.com/trainingEpamKz/lessons/tree/master/lesson_16) / 02.09.15 / XML / SQL
 ----------------------------------------------
+
+
+[Занятие 17](https://github.com/trainingEpamKz/lessons/tree/master/lesson_17) / 04.09.15 / SQL
+----------------------------------------------
