@@ -116,3 +116,7 @@ TOP JAVA BOOKS EVER:
 
 [Занятие 21](https://github.com/trainingEpamKz/lessons/tree/master/lesson_21) / 14.09.15 / Servlet
 ----------------------------------------------
+
+
+[Занятие 23](https://github.com/trainingEpamKz/lessons/tree/master/lesson_23) / 18.09.15 / JSP, JSTL
+----------------------------------------------
