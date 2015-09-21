@@ -120,3 +120,7 @@ TOP JAVA BOOKS EVER:
 
 [Занятие 23](https://github.com/trainingEpamKz/lessons/tree/master/lesson_23) / 18.09.15 / JSP, JSTL
 ----------------------------------------------
+
+
+[Занятие 24](https://github.com/trainingEpamKz/lessons/tree/master/lesson_24) / 21.09.15 / JSTL
+----------------------------------------------
