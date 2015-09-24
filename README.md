@@ -124,3 +124,7 @@ TOP JAVA BOOKS EVER:
 
 [Занятие 24](https://github.com/trainingEpamKz/lessons/tree/master/lesson_24) / 21.09.15 / JSTL
 ----------------------------------------------
+
+
+[Занятие 25](https://github.com/trainingEpamKz/lessons/tree/master/lesson_25) / 23.09.15 / Подготовка к сдаче
+----------------------------------------------
